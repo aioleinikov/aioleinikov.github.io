@@ -5,7 +5,7 @@
     <link>https://aioleinikov.github.io/publication/</link>
       <atom:link href="https://aioleinikov.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 04 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 11 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aioleinikov.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
@@ -13,10 +13,67 @@
     </image>
     
     <item>
+      <title>Легковесные языки разметки</title>
+      <link>https://aioleinikov.github.io/publication/markup-language/</link>
+      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://aioleinikov.github.io/publication/markup-language/</guid>
+      <description>&lt;h2 id=&#34;что-такое-легковесные-языки-разметки&#34;&gt;Что такое легковесные языки разметки?&lt;/h2&gt;
+&lt;p&gt;Легковесные языки разметки (или иногда называемые просто &amp;ldquo;markdown languages&amp;rdquo;) — это языки разметки, которые используют простую и понятную синтаксическую структуру для форматирования текста. В отличие от более сложных языков, таких как HTML, они предназначены для того, чтобы быть легко читаемыми и редактируемыми даже в исходной форме.&lt;/p&gt;
+&lt;h2 id=&#34;примеры-легковесных-языков-разметки&#34;&gt;Примеры легковесных языков разметки&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt;: Наиболее популярный легковесный язык разметки, используемый для создания всего, от документации до постов в блогах. Основные элементы, такие как заголовки, списки и ссылки, создаются с помощью простых символов, таких как &lt;code&gt;#&lt;/code&gt;, &lt;code&gt;*&lt;/code&gt; и &lt;code&gt;[ ]&lt;/code&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;reStructuredText (reST)&lt;/strong&gt;: Этот язык часто используется в экосистеме Python для написания документации. Он обладает более мощным синтаксисом по сравнению с Markdown, предоставляя дополнительные возможности для разметки и форматирования.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Textile&lt;/strong&gt;: Еще один простой язык разметки, который был популярен до появления Markdown. Textile также используется для создания форматированного текста и поддерживается во многих блоговых платформах.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;AsciiDoc&lt;/strong&gt;: Более мощный язык разметки, который поддерживает сложные элементы, такие как таблицы и встроенные кодовые блоки. Чаще всего используется для написания технической документации.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;преимущества-легковесных-языков-разметки&#34;&gt;Преимущества легковесных языков разметки&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Простота и удобство&lt;/strong&gt;: Основное преимущество таких языков — простота. Даже те, кто мало знаком с программированием, могут легко освоить основы разметки и начать использовать её в своей работе.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Читаемость в исходном виде&lt;/strong&gt;: Текст, размеченный с использованием этих языков, остается легким для чтения даже без предварительной обработки. Это особенно полезно для коллабораций и совместного редактирования документов.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Кроссплатформенность&lt;/strong&gt;: Многие системы и платформы поддерживают легковесные языки разметки, что позволяет использовать один и тот же формат для документации, веб-контента и других типов публикаций.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Гибкость и расширяемость&lt;/strong&gt;: Легковесные языки разметки часто обладают возможностью расширения через плагины или дополнительные модули, что позволяет добавлять специфические элементы разметки при необходимости.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;где-применяются-легковесные-языки-разметки&#34;&gt;Где применяются легковесные языки разметки?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Документация&lt;/strong&gt;: Большинство современных проектов, особенно в области программирования, используют легковесные языки разметки для ведения документации. Это позволяет легко обновлять и поддерживать документацию в актуальном состоянии.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Блоги и статьи&lt;/strong&gt;: Платформы для ведения блогов, такие как GitHub Pages или Jekyll, активно используют Markdown для форматирования постов.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Вики-системы&lt;/strong&gt;: Многие корпоративные вики и другие системы для управления знаниями используют легковесные языки разметки для упрощения создания и редактирования контента.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Чат-платформы&lt;/strong&gt;: Некоторые мессенджеры и корпоративные чаты поддерживают синтаксис Markdown для упрощенного форматирования сообщений.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Легковесные языки разметки стали неотъемлемой частью работы с текстом в цифровом мире. Они предоставляют удобный способ создавать структурированные документы, которые легко читать и редактировать. Если вы еще не освоили какой-либо из этих языков, сейчас отличное время, чтобы начать, так как они значительно облегчают процесс создания и форматирования текста.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Управление версиями. Git</title>
-      <link>https://aioleinikov.github.io/publication/conference-paper/</link>
+      <link>https://aioleinikov.github.io/publication/git/</link>
       <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://aioleinikov.github.io/publication/conference-paper/</guid>
+      <guid>https://aioleinikov.github.io/publication/git/</guid>
       <description>&lt;p&gt;В современном мире разработки программного обеспечения управление версиями — это одна из ключевых практик, которая позволяет командам эффективно работать над проектами, поддерживать их качество и избегать хаоса в кодовой базе. Одним из самых популярных инструментов для управления версиями является Git. Давайте разберемся, почему это так важно и как Git помогает в этом процессе.&lt;/p&gt;
 &lt;h2 id=&#34;зачем-нужно-управление-версиями&#34;&gt;Зачем нужно управление версиями?&lt;/h2&gt;
 &lt;p&gt;Когда несколько разработчиков работают над одним проектом, всегда возникает риск, что изменения одного человека могут случайно затереть работу другого. Даже если вы работаете над проектом в одиночку, всегда есть вероятность ошибиться, и тогда возможность откатиться на предыдущую версию станет спасением. Вот основные причины, почему управление версиями важно:&lt;/p&gt;
@@ -80,43 +137,6 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
 &lt;p&gt;Git — это мощный инструмент, который помогает поддерживать порядок в разработке, независимо от размера команды или проекта. Понимание принципов работы с Git и управление версиями в целом — это не просто требование современной разработки, а важный навык, который позволит вам работать эффективнее и увереннее. Если вы еще не начали использовать Git, самое время сделать первый шаг и интегрировать его в свой рабочий процесс.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example preprint / working paper</title>
-      <link>https://aioleinikov.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://aioleinikov.github.io/publication/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;https://aioleinikov.github.io/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://aioleinikov.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://aioleinikov.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

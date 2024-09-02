@@ -5,12 +5,22 @@
     <link>https://aioleinikov.github.io/post/</link>
       <atom:link href="https://aioleinikov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 04 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 05 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aioleinikov.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Blog</title>
       <link>https://aioleinikov.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Пост по неделе с 5 августа по 11 августа</title>
+      <link>https://aioleinikov.github.io/post/summary2/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://aioleinikov.github.io/post/summary2/</guid>
+      <description>&lt;h2 id=&#34;произошедшее-на-неделе&#34;&gt;Произошедшее на неделе&lt;/h2&gt;
+&lt;p&gt;Всё хорошо. Приготовил вкусный суп.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Пост по неделе с 29 июля по 4 августа</title>
