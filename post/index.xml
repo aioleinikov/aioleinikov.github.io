@@ -5,12 +5,42 @@
     <link>https://aioleinikov.github.io/post/</link>
       <atom:link href="https://aioleinikov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 05 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 26 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aioleinikov.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Blog</title>
       <link>https://aioleinikov.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Пост по неделе с 26 августа по 31 августа</title>
+      <link>https://aioleinikov.github.io/post/summary5/</link>
+      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://aioleinikov.github.io/post/summary5/</guid>
+      <description>&lt;h2 id=&#34;произошедшее-на-неделе&#34;&gt;Произошедшее на неделе&lt;/h2&gt;
+&lt;p&gt;Провожаю лето, и друзей, оставшихся в Крыму. Грудь заполняет тоска&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пост по неделе с 19 августа по 25 августа</title>
+      <link>https://aioleinikov.github.io/post/summary4/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://aioleinikov.github.io/post/summary4/</guid>
+      <description>&lt;h2 id=&#34;произошедшее-на-неделе&#34;&gt;Произошедшее на неделе&lt;/h2&gt;
+&lt;p&gt;Всё в порядке и как обычно. Готов продолжать учебу&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пост по неделе с 12 августа по 18 августа</title>
+      <link>https://aioleinikov.github.io/post/summary3/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://aioleinikov.github.io/post/summary3/</guid>
+      <description>&lt;h2 id=&#34;произошедшее-на-неделе&#34;&gt;Произошедшее на неделе&lt;/h2&gt;
+&lt;p&gt;Дела обстоят нормально. Провожу время весело, но эффективно&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Пост по неделе с 5 августа по 11 августа</title>
